@@ -1,3 +1,3 @@
-if __name__=="__main__":
-    test="a "
+if __name__ == "__main__":
+    test = "a"
     print(test)
