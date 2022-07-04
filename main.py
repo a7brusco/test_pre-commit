@@ -1,3 +1,3 @@
 if __name__=="__main__":
-    test="a"
+    test="a "
     print(test)
